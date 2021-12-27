@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(210,21): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(365,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(366,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(367,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(409,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(410,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(420,32): warning C4018: '<': signed/unsigned mismatch
+C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\main.cpp(420,72): warning C4018: '<': signed/unsigned mismatch
+  base_freeglut.vcxproj -> C:\Code\CS535\assignment1\base_freeglut(2)\base_freeglut\x64\Debug\base_freeglut.exe
