@@ -9,7 +9,7 @@
 3. Ray-Object Interaction
 4. Rasterization (base on normal) 
 
-##### Render Effect Images:
+##### Render Effect Images (256 * 256 size grid):
 
 1. Cube in perspective projection
 ![alt text](glc_4.png "1")
